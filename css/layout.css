@@ -40,6 +40,16 @@
     float: right;
 }
 
+.top-right-inner-first-header {
+   height: 25px;
+   background: peru;
+}
+
+.bottom-right-inner-first-header{
+    height: 25px;
+    background: lightcyan;
+}
+
 .second-header {
 	background:#F5F5F5;
 	width: 100%;
@@ -54,15 +64,15 @@
 }
 
 .left-inner-second-header {
-	background: grey;
-	width: 60%;
+	background: thistle;
+	width: 61%;
     height: 50px;
     float: left;
 }
 
 .right-inner-second-header {
-	background: grey;
-	width: 35%;
+	background: thistle;;
+	width: 38%;
     height: 50px;
     float: right;
 }
@@ -143,12 +153,12 @@
 }
 
 .top-menu-body-center-inner-body-wrapper{
-    background: red;
+    background: pink;
     height: 35px;
 }
 
 .bottom-menu-body-center-inner-body-wrapper{
-    background: purple;
+    background: plum;
     height: 35px;
 }
 
@@ -173,17 +183,6 @@
     float: right;
 }
 
-.footer-wrapper {
-    background:#7DD9E8;
-	width: 100%;
-}
-
-.inner-footer-wrapper {
-	background:#727272;
-	width: 100%;
-	height: 50px;
-}
-
 .inner-right-inner-body-wrapper{
     background: gainsboro;
     height: 500px;
@@ -192,6 +191,32 @@
 .heading-inner-right-inner-body-wrapper{
     background: #7DD9E8;
     height: 25px;
+}
+
+.footer-wrapper {
+    background:#7DD9E8;
+	width: 100%;
+}
+
+.inner-footer-wrapper {
+	background:burlywood;
+	width: 1002px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.left-inner-footer-wrapper{
+    background: paleturquoise;
+    width: 30%;
+    float: left;
+    height: 50px;
+}
+
+.right-inner-footer-wrapper{
+    background: paleturquoise;
+    width: 30%;
+    float: right;
+    height: 50px;
 }
 
 
