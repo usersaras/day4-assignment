@@ -1,7 +1,7 @@
 /* header */
 
 .header-wrapper {
-	background: blue;
+	background: grey;
 	/* float: left; */
 	/*overflow: hidden;*/
 	width: 100%;
@@ -20,21 +20,21 @@
 }
 
 .left-inner-first-header {
-	background: blue;
+	background: burlywood;
 	width: 20%;
     height: 50px;
     float: left;
 }
 
 .center-inner-first-header {
-	background: red;
+	background: gainsboro;
 	width: 60%;
     height: 50px;
     float: left;
 }
 
 .right-inner-first-header {
-	background: green;
+	background: burlywood;
 	width: 20%;
     height: 50px;
     float: right;
